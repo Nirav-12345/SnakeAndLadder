@@ -1,11 +1,9 @@
 ﻿using System;
-
-namespace SnakeAndLadder;
-
-class Program
+namespace WinPos2;
+class program
 {
     public static void Main(string[] args)
     {
-        WiningPosition.PlaySnakeAndLadder();
+        Winpos2.PlayGame();
     }
 }
